@@ -1,6 +1,6 @@
 # BudgetPlanner
 Jan 1, 2020
-Using fxam, scene Builder in javafx.
+Using fxml, scene Builder in javafx.
 
 I build this program for people have spending problem (like me). So we can predict and look at if we can achieve some saving goal in the future.
 
