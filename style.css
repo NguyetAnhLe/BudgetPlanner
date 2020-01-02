@@ -1,0 +1,28 @@
+
+.root {
+    -fx-background-color: white;
+}
+
+#name{
+    -fx-text-fill: linear-gradient(from 0% 0% to 100% 200%, repeat, #4f98ca 50%, #4a69bb 50%);
+    -fx-underline: true;
+    -fx-font-weight: bolder;
+}
+
+.calculate{
+    -fx-graphic: url('cal.png');
+    -fx-text-fill: #4f98ca;
+    -fx-border-radius: 5;
+    -fx-border-color: #4f98ca;
+    -fx-background-radius: 5;
+    -fx-effect: dropshadow( gaussian , #9aceff , 8 , 0.0 , 2 , 0 );
+}
+.calculate:hover{
+    -fx-background-color: #e4f9ff;
+    -fx-border-radius: 20;
+    -fx-background-radius: 20;
+}
+.label{
+    -fx-text-fill: #32407b;
+}
+
